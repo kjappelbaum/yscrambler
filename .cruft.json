@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/kjappelbaum/cookiecutter-snekpack",
+  "commit": "e0fe55062845f481677103047b385a44a72ab7c1",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "yscrambler",
+      "package_name_stylized": "yscrambler",
+      "short_description": "Permutation test of the null hypothesis that there is no relationship between features and labels",
+      "author_name": "Kevin M. Jablonka",
+      "author_email": "mail@kjablonka.com",
+      "github_organization_name": "kjappelbaum",
+      "github_repository_name": "yscrambler",
+      "_template": "https://github.com/kjappelbaum/cookiecutter-snekpack"
+    }
+  },
+  "directory": null
+}
